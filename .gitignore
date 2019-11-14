@@ -52,3 +52,5 @@
 CMake*
 cmake*
 *.xml
+*.swp
+
