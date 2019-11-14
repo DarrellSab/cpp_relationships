@@ -53,7 +53,7 @@ int main()
 {
     CGloves gloves("red");
     CHuman human(&gloves);
-    human.setColorOfGlovesOfHuman("blue");
+    human.setColorOfGlovesOfHuman("yellow");
 
     human.printColorOfGlovesOfHuman();
     return 0;
